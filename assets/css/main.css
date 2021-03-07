@@ -2442,9 +2442,19 @@ input, select, textarea {
 				padding: 5em 0;
 			}
 
-				#top .image {
-					margin: 0 auto 2em auto;
+				#home .image {
+					margin: 0 auto 6em auto;
 				}
+				/* Changes on 07-MAR 
+			#top .image {
+				width: 12em;
+				height: 12em;
+				margin-bottom: 50px;
+				margin-left:30%;
+			}
+			*/
+
+				
 
 	}
 
@@ -2645,12 +2655,18 @@ input, select, textarea {
 				padding: 3em 0;
 			}
 
-/* Changes on 07-MAR */
+/* Changes on 07-MAR 
+
+
 			#home .image {
 				width: 12em;
 				height: 12em;
 				margin-bottom: 50px;
 				margin-left:30%;
+			}  */
+
+			#home .image {
+				margin: 0 auto 6em auto;
 			}
 			
 
