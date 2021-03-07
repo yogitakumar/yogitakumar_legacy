@@ -2644,6 +2644,8 @@ input, select, textarea {
 			#home {
 				padding: 3em 0;
 			}
+
+/* Changes on 07-MAR */
 			#home .image {
 				width: 12em;
 				height: 12em;
