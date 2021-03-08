@@ -426,8 +426,9 @@ input, select, textarea {
 		}
 		.row > .col-14 {
 			width: 33.33333%;
-			padding-top: 100px;
+			padding-top: 60px;
 			background-color: #1a212c;
+			
 		
 		
 		}
@@ -928,6 +929,14 @@ input, select, textarea {
 					margin-left: 100%;
 				}
 
+				.row > .col-14-large {
+					width: 33.33%;
+				}
+
+				.row > .off-14-large {
+					margin-left: 100%;
+				}
+
 				.row.gtr-0 {
 					margin-top: 0px;
 					margin-left: 0px;
@@ -1171,6 +1180,13 @@ input, select, textarea {
 
 				.row > .off-12-medium {
 					margin-left: 100%;
+				}
+				.row > .col-14-medium {
+					width: 50%;
+				}
+
+				.row > .off-14-medium {
+					margin-left: 50%;
 				}
 
 				.row.gtr-0 {
@@ -1417,6 +1433,16 @@ input, select, textarea {
 				.row > .off-12-small {
 					margin-left: 100%;
 				}
+				.row > .col-14-small {
+					width: 100%;
+				}
+
+				.row > .off-14-small {
+					margin-left: 100%;
+				}
+
+
+				
 
 				.row.gtr-0 {
 					margin-top: 0px;
